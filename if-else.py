@@ -15,6 +15,7 @@
 
 age = int(input("enter your age :\n"))
 if(age<=0):
+    print("invalid age ")
 
 
     
