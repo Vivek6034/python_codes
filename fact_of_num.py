@@ -17,3 +17,14 @@ while i<=n:
     i= i+ 1
 print("Sum of number is ",sum)
     
+#sum of fact
+
+m=int(input("enter aa number"))
+j=1
+fact=1
+sum_fact=0
+while(i<=n):
+    fact = fact*i
+    sum_fact = sum_fact+fact
+    i+=1
+#user  2 value  insert karega hame o/p first value k bad 2nd value tak k palendrom num show karna haig
