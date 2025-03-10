@@ -16,3 +16,7 @@ while(i<=n2):
     
 
 #wap using choise based user can exit from the program only if user can press 5
+
+
+while(True):
+    ch=int
