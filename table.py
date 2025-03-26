@@ -12,3 +12,4 @@ for i in range(len(ls)):
             ls[j], ls[j + 1] = ls[j + 1], ls[j]
 
 print(ls)
+ 

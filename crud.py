@@ -14,6 +14,7 @@ while(True):
         n=int(input("enter the no. of data remove : "))
         for i in range(n):
             data=input("enter the data : ")
+            
             ls.remove(data)
 
     elif(ch==4):
