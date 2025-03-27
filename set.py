@@ -1,0 +1,15 @@
+s={1,2,3,4,5,6,7,8,9}
+print(type(s))
+s. add(10)
+print(s)
+s.pop()
+print(s)
+l=[11,12,13]
+s.update(l)
+print(s)
+s.update([20,30,40])
+print(s)
+s.remove(20)
+print(s)
+s.discard(50)
+print(s)
