@@ -11,11 +11,7 @@ class car:
 obj= car()
 obj.brand()
 
-class student:
-    def result(abc):
-        print("250")
-obj= student()
-obj.result()
+
 
 
 
