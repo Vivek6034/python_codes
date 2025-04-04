@@ -3,7 +3,7 @@ class BANK:
         self.amt = amt
         self.ir = self.amt*7.8/100
         print("RBI ROI ", self.ir)
-
+ 
 class SBIBANK(BANK):
     def sbiroi(self, amt):
         self.amt = amt
